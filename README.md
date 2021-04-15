@@ -15,6 +15,18 @@ caso contrário a ferramenta não enviará os e-mails. [clique aqui para ativar 
   - Envia para os e-mails lidos de um arquivo de texto (cada e-mail separado por ",")
   - Mostra porcentagem de envios bem sucedidos, e de envios que falhos.
 
+#### Atenção!
+
+O programa irá buscar automaticamente pelo (.txt) e o (.html) nos seguintes diretórios:
+
+ - Desktop
+ - Documents
+ - Images
+ - Downloads 
+
+Coloque o arquivo __html__ e o arquivo de __texto__ em algum dos diretórios acima e no *diálogos* de "arquivo logins gmail" e "arquivo html para enviar" 
+coloque somente o nome sem especificar o caminho __absoluto__.
+
 ### Downloads
   - Baixe para distros gnu/linux e nix* [clique aqui](https://github.com/pabloskubert/BuzzMail/releases/tag/1.0.4) 
   - Windows (7/8/10) *indisponível*
